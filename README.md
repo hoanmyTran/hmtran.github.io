@@ -1,5 +1,3 @@
-# Hoan My Tran
-
 _PhD Student in Deep Learning for Speech Synthesis Detection @ Université de Rennes | IRISA_ <br>
 
 [Email](mailto:hoan.tran@irisa.fr) / [LinkedIn](https://www.linkedin.com/in/hoanmy-tran/) / [GitHub](https://github.com/hoanmyTran) / [Google Scholar](https://scholar.google.com/citations?user=xBko7h8AAAAJ&hl=fr) 
@@ -22,36 +20,3 @@ _PhD Student in Deep Learning for Speech Synthesis Detection @ Université de Re
 
 **Front-end Developer Intern @ <a href="https://www.intellique.com/" target="_blank">Intellique</a> (_APR 2017 - JUL 2017_)**
 - UI development for stockage software.
-<!---
-## 📜 Publications
-
-1. Allan Victor, Mani Vetriventhan, Ramachandran Senthil, S. Geetha, Santosh Deshpande, Abhishek Rathore, Vinod Kumar, Prabhat Singh, Surender Reddymalla, and Vânia CR Azevedo. **"Genome-wide DArTSeq genotyping and phenotypic based assessment of within and among accessions diversity and effective sample size in the diverse sorghum, pearl millet, and pigeonpea landraces."**_Frontiers in Plant Science_ 11 (2020): 587426. (DOI: <a href="https://doi.org/10.3389/fpls.2020.587426" target="_blank">https://doi.org/10.3389/fpls.2020.587426</a>)
-
-
-#### Technical Skills:
-
-- Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
-- Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
-- Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
-
-
-## 💬 Languages
-
-🇺🇸 **English**: Native <br>
-🇩🇪 **German**: B1
-<br><br>
-
-## 👩🏼‍🎓 Education
-
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
--->
